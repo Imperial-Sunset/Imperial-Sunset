@@ -11,6 +11,12 @@ state = {
 		victory_points = { #Zara/Zadar
 			3943 5 
 		}
+		victory_points = { #Dubrovnik
+			6889 3 
+		}
+		victory_points = { #Split
+			3924 3
+		}
 		buildings = {
 			infrastructure = 3 #was: 5
 			3943 = {
@@ -27,7 +33,7 @@ state = {
 		#set_province_name = { id = 3943 name = VICTORY_POINTS_3943_ITA }
 	}
 	provinces = {	
-		3943 
+		3943 3974 3924 11816 3868 6889 
 	}
 
 	local_supplies = 0.0 

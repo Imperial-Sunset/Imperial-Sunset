@@ -8,13 +8,7 @@ state={
 
 
 	history={
-		owner = YUG
-		victory_points = { #Dubrovnik
-			6889 3 
-		}
-		victory_points = { #Split
-			3924 3
-		}
+		owner = CRO
 		buildings = {
 			infrastructure = 3
 			dockyard = 1
@@ -26,13 +20,12 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = YUG
 		#add_claim_by = ITA #added by focus
 		add_core_of = CRO
 	}
 
 	provinces={
-		591 984 3601 3868 3924 3974 6611 6889 11816 11901 13252
+		591 984 3601 6611 11901 13252
 	}
 
 	local_supplies=4.0 
